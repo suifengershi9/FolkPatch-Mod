@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Example Module",
+    "version": "1.0.0",
+    "url": "https://example.com/module.zip",
+    "description": "This is an example module description."
+  },
+  {
+    "name": "Another Module",
+    "version": "2.0.1",
+    "url": "https://example.com/another.zip",
+    "description": "Another useful module."
+  }
+]
