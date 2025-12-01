@@ -11,6 +11,12 @@
     "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/zygisk/NeoZygisk-v2.2-269-b0ed8f5-release.zip",
     "description": "一个轻量化的Zygisk基底模块,适配多种ROOT方案."
   },
+   {
+    "name": "ReZygisk",
+    "version": "1.0.0-437-3c9e94a",
+    "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/zygisk/ReZygisk-v1.0.0-437-3c9e94a-release.zip",
+    "description": "一个多功能的Zygisk基底模块,适配多种ROOT方案."
+  },
   {
     "name": "Sui for zygisk",
     "version": "13.5.1",
